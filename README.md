@@ -34,6 +34,10 @@ The practical session uses the Wine dataset for demonstrating machine learning c
 
 ---
 
-**Resource Person:** Dr. T. Saranya  
-**Department of Information Technology**  
-**Velammal College of Engineering and Technology, Madurai**
+**Prepared by: Dr. T. Saranya**
+
+**Assistant Professor – I, IT | VCET, Madurai**
+
+***Alumna – TCE*** | ***Former Software Developer*** | ***Former Research Engineer – Zoho R&D***
+
+[Scopus](https://www.scopus.com/authid/detail.uri?authorId=57217177330) | [Google Scholar](https://scholar.google.com/citations?hl=en&user=qddSF9EAAAAJ) | [ORCID](https://orcid.org/0000-0002-2034-1764)
